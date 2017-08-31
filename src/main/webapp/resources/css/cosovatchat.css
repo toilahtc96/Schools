@@ -1,0 +1,71 @@
+.a{}
+th {
+	text-align: center;
+	font-style: center;
+	background-color: #ecf0f1;
+}
+
+td {
+	background-color: lightyellow !important;
+	text-align: center !important;
+}
+
+.editable .updatebutton {
+	display: block !important";
+}
+
+.editable .ip {
+	background-color: transparent;
+}
+.abc{
+	text-align: center;
+}
+
+.nav-tabs{
+	text-align: center !important;
+	float:none;
+	display: inline-block;
+}
+.editable .editbutton {
+	display: none !important;
+}
+
+.editable span {
+	display: none;
+}
+
+.editable .cancelbutton {
+	display: block !important;
+}
+
+.editable td, .editable input {
+	text-align: center;
+	border: none;
+	background-color: transparent !important;
+}
+
+.editable input {
+	margin-left: 40px;
+	text-align: center;
+	display: block !important;
+	border: none;
+	background-color: transparent;
+}
+
+.canceltable .editbutton {
+	display: block !important;
+}
+
+.canceltable .cancelbutton {
+	display: none !important;
+}
+td .buttonedit ,td .buttonupdate{
+	width: 75px !important;
+}
+.editable input .ip{
+	width: 70px;
+	margin-left: 0px !important;
+}
+
+
+
